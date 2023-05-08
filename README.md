@@ -11,4 +11,7 @@ javascript:(function() {var l = document.querySelector("link[rel*='icon']") || d
 
 2. get the image url
 Images(i will take requests to add more tab icons*)
+drag these into a new tab and get the url
+
 ![rizz](https://user-images.githubusercontent.com/130446887/236890346-a33ab9eb-5493-4da8-af8d-b97a3414b458.png)
+
