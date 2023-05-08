@@ -50,3 +50,5 @@ javascript:(function() {var l = document.querySelector("link[rel*='icon']") || d
 4. Copy your finished javascript into your bookmarks bar and enjoy your tab cloaking Bookmarklet!
 
 
+
+*My email is dallingeurts@gmail.com (got that off a random name generator)
