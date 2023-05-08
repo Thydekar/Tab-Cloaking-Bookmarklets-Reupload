@@ -1,5 +1,4 @@
-# 
-Tab-Cloaking-Bookmarklets
+# Tab-Cloaking-Bookmarklets
 Bookmarklets to cloak your tab to look like almost anything
 
 This is an update version of my previous repository for tab cloaking.
