@@ -27,8 +27,13 @@ drag these into a new tab and get the url
 
 link to other images:
 https://pesd.getalma.com/favicon.ico
+
 https://www.google.com/favicon.ico
+
 https://www.youtube.com/favicon.ico
+
+
+
 
 
 
