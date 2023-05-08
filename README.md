@@ -26,11 +26,18 @@ drag these into a new tab and get the url
 ![Screenshot 2023-05-05 4 05 39 PM](https://user-images.githubusercontent.com/130446887/236898826-0df7e9b8-e09b-49e8-b164-35319b5a60e1.png)
 
 link to other images:
+
 https://pesd.getalma.com/favicon.ico
 
 https://www.google.com/favicon.ico
 
 https://www.youtube.com/favicon.ico
+
+https://mail.google.com/favicon.ico
+
+https://drive.google.com/favicon.ico
+
+https://carnegielearning.com/favicon.ico
 
 
 
