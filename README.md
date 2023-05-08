@@ -19,3 +19,16 @@ drag these into a new tab and get the url
 
 ![Screenshot 2023-05-05 12 50 02 PM](https://user-images.githubusercontent.com/130446887/236891374-3e7dc887-96e6-4082-aa54-3a1343a38938.png)
 
+![Screenshot 2023-05-05 1 07 40 PM](https://user-images.githubusercontent.com/130446887/236898756-c8e32bc6-6a26-4f57-bfcb-5e054b62021e.png)
+
+![Screenshot 2023-05-05 2 08 40 PM](https://user-images.githubusercontent.com/130446887/236898790-94ba9cbe-32db-4b58-b2d8-66ce6e0227fa.png)
+
+![Screenshot 2023-05-05 4 05 39 PM](https://user-images.githubusercontent.com/130446887/236898826-0df7e9b8-e09b-49e8-b164-35319b5a60e1.png)
+
+link to other images:
+https://pesd.getalma.com/favicon.ico
+https://www.google.com/favicon.ico
+https://www.youtube.com/favicon.ico
+
+
+
