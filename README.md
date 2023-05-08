@@ -40,7 +40,11 @@ https://drive.google.com/favicon.ico
 https://carnegielearning.com/favicon.ico
 
 
+3. name your tab in the insert name section(or for you more experienced people, the document.title section :) )
+Example:
+javascript:(function() {var l = document.querySelector("link[rel*='icon']") || document.createElement('link');l.type = 'image/x-icon';l.rel = 'shortcut icon';l.href = 'https://www.google.com/favicon.ico';document.getElementsByTagName('head')[0].appendChild(l);document.title = 'Google';})();
 
 
+4. Copy your finished javascript into your bookmarks bar and enjoy your tab cloaking Bookmarklet!
 
 
