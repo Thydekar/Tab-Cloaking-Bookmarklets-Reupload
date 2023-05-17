@@ -25,7 +25,6 @@ drag these into a new tab and get the url
 
 ![Screenshot 2023-05-05 4 05 39 PM](https://user-images.githubusercontent.com/130446887/236898826-0df7e9b8-e09b-49e8-b164-35319b5a60e1.png)
 
-![code](https://github.com/Thydekar/Tab-Cloaking-Bookmarklets-Reupload/assets/130446887/7d1170dc-b431-4d88-a5b9-365c0032983a)
 
 link to other images:
 
