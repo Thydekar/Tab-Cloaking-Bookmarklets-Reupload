@@ -25,6 +25,8 @@ drag these into a new tab and get the url
 
 ![Screenshot 2023-05-05 4 05 39 PM](https://user-images.githubusercontent.com/130446887/236898826-0df7e9b8-e09b-49e8-b164-35319b5a60e1.png)
 
+![code](https://github.com/Thydekar/Tab-Cloaking-Bookmarklets-Reupload/assets/130446887/ddf1377d-dc7d-490f-b4e3-fa54e96d9a24)
+
 link to other images:
 
 https://pesd.getalma.com/favicon.ico
