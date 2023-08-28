@@ -48,6 +48,8 @@ https://drive.google.com/favicon.ico
 
 https://carnegielearning.com/favicon.ico
 
+https://or-pesd.edupoint.com/favicon.ico
+
 
 3. name your tab in the insert name section(or for you more experienced people, the document.title section :) )
 
