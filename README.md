@@ -63,7 +63,7 @@ https://or-pesd.edupoint.com/favicon.ico
 
 Example:
 
-javascript:(function() {var l = document.querySelector("link[rel*='icon']") || document.createElement('link');l.type = 'image/x-icon';l.rel = 'shortcut icon';l.href = 'https://www.google.com/favicon.ico';document.getElementsByTagName('head')[0].appendChild(l);document.title = 'Google';})();
+javascript:(function() {var l = document.querySelector("link[rel*='icon']") || document.createElement('link'); l.type = 'image/x-icon';l.rel = 'shortcut icon';l.href = 'https://www.google.com/favicon.ico'; document.getElementsByTagName('head')[0].appendChild(l); document.title = 'Google';})();
 
 
 4. Copy your finished javascript into your bookmarks bar and enjoy your tab cloaking Bookmarklet!
