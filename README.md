@@ -70,4 +70,4 @@ javascript:(function() {var l = document.querySelector("link[rel*='icon']") || d
 
 
 
-*My email is dallingeurts@gmail.com (got that off a random name generator)
+*My email is thaidakar21@gmail.com
